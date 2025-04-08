@@ -1,0 +1,5 @@
+{
+  "/(routes)/(home)/page": "app/(routes)/(home)/page.js",
+  "/(auth)/login/page": "app/(auth)/login/page.js",
+  "/(auth)/create-user/page": "app/(auth)/create-user/page.js"
+}
